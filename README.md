@@ -24,5 +24,3 @@ Devido ao tamanho dos ficheiros `.csv` utilizados, **eles não estão incluídos
 
 ---
 
-Caso queira colaborar, encontrar bugs ou dar sugestões, fique à vontade para abrir uma issue ou pull request!
-
