@@ -3,7 +3,7 @@
 > 🚀 Projeto académico focado na leitura, estruturação e consulta eficiente de dados da plataforma Spotify.
 
 ![Spotify Backend Project](https://img.shields.io/badge/LI3-Project-blue?style=flat-square)
-![Status](https://img.shields.io/badge/status-Em%20Desenvolvimento-yellow?style=flat-square)
+![Status](https://img.shields.io/badge/status-Terminado-red?style=flat-square)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 
 ---
